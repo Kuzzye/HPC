@@ -62,9 +62,11 @@ En este modelo se creó un proyecto en el cual se crearon diferentes clase como 
 __Comparativa:__
 
 Qt - C++
+
 ![imagen](https://user-images.githubusercontent.com/79543099/203247297-a6a5df62-4302-4897-8376-72d23b08ef64.png)
 
 Collab - Python
+
 ![imagen](https://user-images.githubusercontent.com/79543099/203247427-b641154f-e78a-4472-9086-a7bf23061c85.png)
 
 
